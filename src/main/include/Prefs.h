@@ -11,6 +11,7 @@
 
 // CAN
 
+    //four or six motors?
 
 // PWM
 
