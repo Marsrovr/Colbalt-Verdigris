@@ -7,6 +7,9 @@
 #include <frc/smartdashboard/SendableChooser.h>
 #include <frc/Joystick.h>
 
+#include "DriveTrain.h"
+#include "Prefs.h"
+
 class Robot : public frc::TimedRobot {
  public:
   Robot();
